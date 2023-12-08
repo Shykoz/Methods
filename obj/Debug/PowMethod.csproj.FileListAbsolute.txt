@@ -1,0 +1,7 @@
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\obj\Debug\PowMethod.csproj.AssemblyReference.cache
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\obj\Debug\PowMethod.csproj.CoreCompileInputs.cache
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\bin\Debug\PowMethod.exe.config
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\bin\Debug\PowMethod.exe
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\bin\Debug\PowMethod.pdb
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\obj\Debug\PowMethod.exe
+D:\Programms\Visual Studio\Projects\Study\PetTasks\PowMethod\obj\Debug\PowMethod.pdb
